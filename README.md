@@ -1,4 +1,4 @@
-# Refund Calculator (Public App)
+# Refund Calculator
 
 A tiny, zero-backend calculator for non-refundable payment processor fees
 (default **2.9% + $0.30**) that shows the **refund amount** for a given charge.
